@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shubham/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/shubham/static/js/main.47b58bd7.chunk.js",
+    "main.js.map": "/shubham/static/js/main.47b58bd7.chunk.js.map",
+    "runtime-main.js": "/shubham/static/js/runtime-main.442bf867.js",
+    "runtime-main.js.map": "/shubham/static/js/runtime-main.442bf867.js.map",
+    "static/css/2.383c0125.chunk.css": "/shubham/static/css/2.383c0125.chunk.css",
+    "static/js/2.e2f68e40.chunk.js": "/shubham/static/js/2.e2f68e40.chunk.js",
+    "static/js/2.e2f68e40.chunk.js.map": "/shubham/static/js/2.e2f68e40.chunk.js.map",
+    "static/js/3.83475a7b.chunk.js": "/shubham/static/js/3.83475a7b.chunk.js",
+    "static/js/3.83475a7b.chunk.js.map": "/shubham/static/js/3.83475a7b.chunk.js.map",
+    "index.html": "/shubham/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/shubham/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/shubham/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e2f68e40.chunk.js.LICENSE.txt": "/shubham/static/js/2.e2f68e40.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shubham/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.442bf867.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.e2f68e40.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.47b58bd7.chunk.js"
+  ]
+}
